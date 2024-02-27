@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="challenger">Challenge</string>
+    <string name="challenger_description_p1">Creating an Android App with</string>
+    <string name="challenger_description_p2">Multiple Language Support</string>
+</resources>
