@@ -9,8 +9,8 @@
 
 ## Imagens de Telas
 
-![print-default](/files/Screenshot_01.png)
+<img src="/files/Screenshot_01.png" alt="print default language" width="250px" />
 
-![print-en](/files/Screenshot_02.png)
+<img src="/files/Screenshot_02.png" alt="print english language" width="250px" />
 
-![priny-es](/files/Screenshot_03.png)
+<img src="/files/Screenshot_03.png" alt="print spanish language" width="250px" />
